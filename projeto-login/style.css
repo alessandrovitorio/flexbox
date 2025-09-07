@@ -1,0 +1,79 @@
+*{
+   margin: 0;
+   padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color: aquamarine;
+    display: flex;
+    height: 100vh;
+}
+
+.login-content, .banner-content{
+    width: 50%;
+}
+
+.login-content{
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 252, 248);
+}
+
+.login-content h1{
+    color: #590000;
+    font-size: 3rem;
+    margin-bottom: 4rem;
+}
+.login-content form{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    width: 100%;
+    max-width: 500px;
+    gap: 20px;
+    height: 50%;
+    padding: 2rem;
+   
+    
+}
+.login-content form input{
+    padding: 1rem 0.5rem;
+    border-radius: 60px;
+    border: 1px solid #590000;
+    box-shadow: 9px 7px 0px -2px #590000;
+    width: 100%;
+}
+
+.login-content form input[type="submit"]{
+    width: 50%;
+    margin-top: 3rem;
+	background-color:#590000;
+    box-shadow: 9px 7px 20px  #590000;
+	color:#fff
+}
+.login-content form a{
+    text-decoration: none;
+    color: #590000;
+    font-size: 1.2rem;
+}
+
+.banner-content{
+    display: flex;
+    background-color: #590000;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-content img{
+    width: 60%;
+}
