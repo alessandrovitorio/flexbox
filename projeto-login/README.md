@@ -45,7 +45,7 @@ O design é simples, elegante e responsivo, contando com uma seção de login e 
 
 ## 🖌 Paleta de Cores
 
-- Fundo principal: `aquamarine`
+- Fundo principal: `#ffffff`
 - Destaques e botões: `#590000` (bordô)
 - Fundo do formulário: `#fffdf8`
 
