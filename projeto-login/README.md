@@ -1,7 +1,3 @@
-
-Aqui está um **README.md bem legal** para o seu projeto de **Tela de Login com CSS e HTML** 🚀
-
-```markdown
 # 🔑 Tela de Login Responsiva
 
 Este projeto é uma **página de login estilizada com HTML e CSS**, desenvolvida para treinar **layout com Flexbox**, **estilização com Box Model** e aplicação de **cores e sombras**.  
