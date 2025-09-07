@@ -7,7 +7,7 @@ O design é simples, elegante e responsivo, contando com uma seção de login e 
 
 ## 📸 Preview
 
-![Preview da Tela de Login](./undraw_enter-password_1kl4.png)
+![Preview da Tela de Login](./mockup.jpg)
 
 ---
 
